@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there 👋, I'm Alessandro Russo 🐢!
 
-<!--
-**Alessandroinfo/Alessandroinfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-end and Full Stack developer with over 10 years of experience. I'm passionate about automating tasks and making complex things simple.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🐍 Python
+- 💻 TypeScript / JavaScript
+- 🎨 Sass
+- 📦 NPM
+- 🐙 Git
+- 📦 Webpack
+- 🅰️ Angular
+- ⚛️ React
+- 📐 Design Patterns
+- 🏗️ Front-end Architectures
+
+---
+
+- 🔭 I’m currently working on Angular-Boilerplate
+- 🌱 I’m currently learning Microfrontend
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with Angular-Boilerplate
+
+
+## Contact me
+
+- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/alessandrorusso-in/)
+- Email: [Your Email Address](mailto:alessandrorusso.info@gmail.com)
+
