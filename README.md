@@ -19,10 +19,9 @@ I'm passionate about automating tasks and making complex things simple.
 
 ---
 
-- 🔭 I’m currently working on Angular-Boilerplate
+- 🔭 I’m currently working on [Angular-Boilerplate](https://github.com/Alessandroinfo/angular-boilerplate)
 - 🌱 I’m currently learning Microfrontend
 - 👯 I’m looking to collaborate on Open-Source projects
-- 🤔 I’m looking for help with Angular-Boilerplate
 
 
 ## Contact me
