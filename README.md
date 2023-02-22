@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Alessandro Russo 🧘🏻‍♂️!
 
-I'm a Front-end and Full Stack developer with over 10 years of experience. I'm passionate about automating tasks and making complex things simple.
+I'm a Front-end and Full Stack developer with over 10 years of experience.
+I'm passionate about automating tasks and making complex things simple.
 
 ## Skills
 
