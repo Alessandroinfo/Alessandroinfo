@@ -25,6 +25,7 @@ I'm a Front-end and Full Stack developer with over 10 years of experience. I'm p
 
 ## Contact me
 
-- LinkedIn: [Profile](https://www.linkedin.com/in/alessandrorusso-in/)
-- Email: [Mail me](mailto:alessandrorusso.info@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/alessandrorusso-in/)
+- [StackOverflow](https://stackoverflow.com/users/2893733/alessandro-russo)
+- [Mail me](mailto:alessandrorusso.info@gmail.com)
 
