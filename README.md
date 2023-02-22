@@ -7,12 +7,12 @@ I'm passionate about automating tasks and making complex things simple.
 ## Skills
 
 - 💻 TypeScript / JavaScript
-- 🎨 Sass
+- 🐍 Python
 - 🟢 Node.js
 - 🐙 Git
 - 🅰️ Angular
 - ⚛️ React
-- 🐍 Python
+- 🎨 Sass
 - 🌐 Nginx
 - 💾 Mongo DB
 - 📐 Design Patterns
