@@ -19,7 +19,7 @@ I'm a Front-end and Full Stack developer with over 10 years of experience. I'm p
 
 - 🔭 I’m currently working on Angular-Boilerplate
 - 🌱 I’m currently learning Microfrontend
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Open-Source projects
 - 🤔 I’m looking for help with Angular-Boilerplate
 
 
