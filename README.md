@@ -14,6 +14,8 @@ I'm passionate about automating tasks and making complex things simple.
 - 📦 Webpack
 - 🅰️ Angular
 - ⚛️ React
+- 🌐 Nginx
+- 💾 Mongo DB
 - 📐 Design Patterns
 - 🏗️ Front-end Architectures
 
