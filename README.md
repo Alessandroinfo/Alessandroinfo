@@ -6,8 +6,8 @@ I'm passionate about automating tasks and making complex things simple.
 
 ## Skills
 
-- 🐍 Python
 - 💻 TypeScript / JavaScript
+- 🐍 Python
 - 🎨 Sass
 - 📦 NPM
 - 🐙 Git
