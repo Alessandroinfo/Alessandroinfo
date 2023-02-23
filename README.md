@@ -15,9 +15,10 @@ I'm passionate about automating tasks and making complex things simple.
 - 🎨 Sass
 - 🌐 Nginx
 - 💾 Mongo DB
+- 🎨 Web Artisan
 - 📐 Design Patterns
 - 🏗️ Front-end Architectures
-- 🎨 Web Artisan
+
 
 ---
 
