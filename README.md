@@ -17,6 +17,7 @@ I'm passionate about automating tasks and making complex things simple.
 - 💾 Mongo DB
 - 📐 Design Patterns
 - 🏗️ Front-end Architectures
+- 🎨 Web Artisan
 
 ---
 
