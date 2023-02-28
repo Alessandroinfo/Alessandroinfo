@@ -30,6 +30,5 @@ I'm passionate about automating tasks and making complex things simple.
 ## Contact me
 
 - [LinkedIn](https://www.linkedin.com/in/alessandrorusso-in/)
-- [StackOverflow](https://stackoverflow.com/users/2893733/alessandro-russo)
 - [Mail me](mailto:alessandrorusso.info@gmail.com)
 
