@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Alessandro Russo 🧘🏻‍♂️!
 
-I'm a Front-end and Full Stack developer with over 10 years of experience.
+I'm a Front-end Architect with Full-Stack  knowledge and over 10 years of experience.
 
-I'm passionate about automating tasks and making complex things simple.
+I'm passionate about UI, automating tasks and making complex things simple.
 
 In my repo you can find usefult explanations and awesome projects like [Angular-Boilerplate](https://github.com/Alessandroinfo/angular-boilerplate) that simplify your life.
 
