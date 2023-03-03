@@ -25,7 +25,7 @@ In my repo you can find usefult explanations and awesome projects like [Angular-
 ---
 
 - 🔭 I’m currently working on [Angular-Boilerplate](https://github.com/Alessandroinfo/angular-boilerplate)
-- 🌱 I’m currently learning Microfrontend
+- 🌱 I’m currently learning Micro Frontend
 - 👯 I’m looking to collaborate on Open-Source projects
 
 
