@@ -21,6 +21,7 @@ In my repo you can find usefult explanations and awesome projects like [Angular-
 - 📐 Design Patterns
 - 🏗️ Front-end Architectures
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandroinfo&theme=onedark&layout=compact)
 
 ---
 
