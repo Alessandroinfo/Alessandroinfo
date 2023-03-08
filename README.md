@@ -34,7 +34,6 @@ In my repo you can find usefult explanations and awesome projects like [Angular-
 
 ![Top Langs](https://api.githubtrends.io/user/svg/Alessandroinfo/langs?time_range=one_year&use_percent=True&group=other&theme=dark)
 &nbsp;
-&nbsp;
 ![Top Repo Contribution](https://api.githubtrends.io/user/svg/Alessandroinfo/repos?time_range=one_year&group=other&theme=dark)
 
 </h3>
