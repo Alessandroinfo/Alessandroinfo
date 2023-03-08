@@ -21,34 +21,33 @@ In my repo you can find usefult explanations and awesome projects like [Angular-
 - 📐 Design Patterns
 - 🏗️ Front-end Architectures
 
----
+## Contributions
 
-<p align="center">
+<h3 align="center" style="">
+
+![Top Langs](https://api.githubtrends.io/user/svg/Alessandroinfo/langs?time_range=one_year&use_percent=True&group=other&theme=dark)
+&nbsp;
+&nbsp;
+![Top Repo Contribution](https://api.githubtrends.io/user/svg/Alessandroinfo/repos?time_range=one_year&group=other&theme=dark)
+
+</h3>
+
+
+## Contacts
+<center>
   
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alessandroinfo&theme=onedark&layout=compact)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:alessandrorusso.info@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Alessandro_info)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RussoAlessandro)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Ale_info)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alessandrorusso-in/)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/alessandroinfo)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alessandrorusso.info)
+[![DEV.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/alessandroinfo)
 
-<a href="https://github.com/johannchopin/stackoverflow-readme-profile">
-  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/2893733?theme=dark&website=true&location=true" alt="user:2893733's SO profile">
+</center>
+
+<a href="https://stackoverflow.com/users/2893733/alessandro-russo">
+<img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/2893733?theme=dark&website=true&location=true" alt="user:2893733's SO profile">
 </a>
-  
-</p>
 
-## Contact me
-
-<p align="center" style="display: flex; align-items: center; justify-content: center;">
-  
-  <a href="mailto:alessandrorusso.info@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-
-  <a href="https://www.instagram.com/alerussohere/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-
-  <a href="https://t.me/@Ale_info" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-
-  <a href="https://www.linkedin.com/in/alessandrorusso-in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-  <a href="https://codepen.io/alessandroinfo" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></a>
-
-  <a href="https://medium.com/@alessandrorusso.info" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-
-  <a href="https://dev.to/alessandroinfo" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to"></a>
-  
-</p>
