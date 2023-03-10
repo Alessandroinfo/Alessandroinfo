@@ -4,7 +4,7 @@ I'm a Front-end Architect with Full-Stack  knowledge and over 10 years of experi
 
 I'm passionate about UI, automating tasks and making complex things simple.
 
-In my repo you can find usefult explanations and awesome projects like [Angular-Boilerplate](https://github.com/Alessandroinfo/angular-boilerplate) that simplify your life.
+In my repo you can find useful explanations, and awesome projects like [Angular-Boilerplate](https://github.com/Alessandroinfo/angular-boilerplate) that simplify your life.
 
 ## Technologies
 
