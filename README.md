@@ -8,7 +8,8 @@ In my repo you can find useful explanations, and awesome projects like [Angular-
 
 ## Technologies
 
-- 💻 TypeScript / JavaScript
+- 💻 JavaScript
+- 🖊️ TypeScript
 - 🐍 Python
 - 🟢 Node.js
 - 🐙 Git
