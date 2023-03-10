@@ -6,7 +6,7 @@ I'm passionate about UI, automating tasks and making complex things simple.
 
 In my repo you can find usefult explanations and awesome projects like [Angular-Boilerplate](https://github.com/Alessandroinfo/angular-boilerplate) that simplify your life.
 
-## Skills
+## Technologies
 
 - 💻 TypeScript / JavaScript
 - 🐍 Python
@@ -17,9 +17,18 @@ In my repo you can find usefult explanations and awesome projects like [Angular-
 - 🎨 Sass
 - 🌐 Nginx
 - 💾 Mongo DB
+- 📦 AWS
+- 🌐 Google Cloud
+
+# Skills
+
 - 🎨 Web Artisan
 - 📐 Design Patterns
 - 🏗️ Front-end Architectures
+- 🫧 Distribuitrd systems
+- ☁️ Cloud Infrastructures
+- ⚡️ Serverless
+- 📝 NoSQL
 
 ---
 
