@@ -67,3 +67,4 @@ In my repo you can find useful explanations, and awesome projects like [Angular-
 <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/2893733?theme=dark&website=true&location=true" alt="user:2893733's SO profile">
 </a>
 
+![](https://komarev.com/ghpvc/?username=Alessandrinfo&color=green)
