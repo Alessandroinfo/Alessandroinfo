@@ -21,15 +21,15 @@ In my repo you can find useful explanations, and awesome projects like [Angular-
 - 📦 AWS
 - 🌐 Google Cloud
 
-# Skills
+## Skills
 
 - 🎨 Web Artisan
 - 📐 Design Patterns
 - 🏗️ Front-end Architectures
 - 🫧 Distribuitrd systems
+- 📝 NoSQL
 - ☁️ Cloud Infrastructures
 - ⚡️ Serverless
-- 📝 NoSQL
 
 ---
 
