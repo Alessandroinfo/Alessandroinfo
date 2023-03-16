@@ -29,6 +29,7 @@ In my repos you can find useful explanations, and awesome projects like [Angular
 - 🫧 Distribuitrd systems
 - 📝 NoSQL
 - ☁️ Cloud Infrastructures
+- 🛠️ System administrations
 - ⚡️ Serverless
 
 ---
