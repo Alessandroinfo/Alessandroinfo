@@ -69,5 +69,3 @@ In my repos you can find useful explanations, and awesome projects like [Angular
 <a href="https://stackoverflow.com/users/2893733/alessandro-russo">
 <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/2893733?theme=dark&website=true&location=true" alt="user:Alessandroinfo's SO profile">
 </a>
-
-![](https://komarev.com/ghpvc/?username=Alessandroinfo&color=green)
