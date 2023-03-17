@@ -49,6 +49,14 @@ In my repos you can find useful explanations, and awesome projects like [Angular
 
 </h3>
 
+<div align="center">
+<table><tr><td>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alessandroinfo&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="." />
+</td><td>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandroinfo&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="." />
+</td></tr></table>
+</div>
+
 
 ## Contacts
 <center>
@@ -65,7 +73,7 @@ In my repos you can find useful explanations, and awesome projects like [Angular
 </center>
 
 <a href="https://stackoverflow.com/users/2893733/alessandro-russo">
-<img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/2893733?theme=dark&website=true&location=true" alt="user:2893733's SO profile">
+<img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/2893733?theme=dark&website=true&location=true" alt="user:Alessandroinfo's SO profile">
 </a>
 
-![](https://komarev.com/ghpvc/?username=Alessandrinfo&color=green)
+![](https://komarev.com/ghpvc/?username=Alessandroinfo&color=green)
