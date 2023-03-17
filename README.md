@@ -41,19 +41,13 @@ In my repos you can find useful explanations, and awesome projects like [Angular
 
 ## Contributions
 
-<h3 align="center" style="">
-
-![Top Langs](https://api.githubtrends.io/user/svg/Alessandroinfo/langs?time_range=one_year&use_percent=True&group=other&theme=dark)
-&nbsp;
-![Top Repo Contribution](https://api.githubtrends.io/user/svg/Alessandroinfo/repos?time_range=one_year&group=other&theme=dark)
-
-</h3>
-
 <div align="center">
 <table><tr><td>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alessandroinfo&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="." />
+<img align="center" src="https://github-readme-stats.vercel.app/api?time_range=five_year&username=Alessandroinfo&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="." />
 </td><td>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandroinfo&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="." />
+<img align="center" src="https://api.githubtrends.io/user/svg/Alessandroinfo/langs?time_range=five_year&use_percent=True&group=other&theme=dark" alt="." />
+</td><td>
+<img align="center" src="https://api.githubtrends.io/user/svg/Alessandroinfo/repos?time_range=five_year&group=other&theme=dark" alt="." />
 </td></tr></table>
 </div>
 
