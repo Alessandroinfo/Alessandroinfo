@@ -71,20 +71,6 @@ In my repos you can find useful explanations, and awesome projects like [Angular
 - 🌱 I’m currently learning Micro Frontend
 - 👯 I’m looking to collaborate on Open-Source projects
 
-
-## Contributions
-
-<div align="center">
-<table><tr><td>
-<img align="center" src="https://github-readme-stats.vercel.app/api?time_range=five_year&username=Alessandroinfo&show_icons=true&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff&title_color=ffffff&locale=en" alt="." />
-</td><td>
-<img align="center" src="https://api.githubtrends.io/user/svg/Alessandroinfo/langs?time_range=one_year&use_percent=True&group=other&theme=dark" alt="." />
-</td><td>
-<img align="center" src="https://api.githubtrends.io/user/svg/Alessandroinfo/repos?time_range=one_year&group=other&theme=dark" alt="." />
-</td></tr></table>
-</div>
-
-
 ## Contacts
 <center>
   
