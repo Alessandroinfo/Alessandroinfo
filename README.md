@@ -67,6 +67,7 @@ In my repos you can find useful explanations, and awesome projects like [Angular
 
 ---
 
+- 🤖 I’m currently improving myself with AI 
 - 🔭 I’m currently working on [Angular-Boilerplate](https://github.com/Alessandroinfo/angular-boilerplate)
 - 🌱 I’m currently learning Micro Frontend
 - 👯 I’m looking to collaborate on Open-Source projects
